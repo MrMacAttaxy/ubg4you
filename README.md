@@ -1,6 +1,6 @@
-# ubg4you
-<h1>Hosting</h1>
-<h2>Dynu and Vercel</h2>
+# UGB4YOU
+<h2>Hosting</h2>
+<h3>Dynu and Vercel</h3>
 <hr>
 <ol>
   <li>Go to vercel and log in/sign up</li>
@@ -13,7 +13,7 @@
   <li>Enjoy!</li>
 </ol>
 <hr>
-<h2>Why us?</h2>
+<h3>Why us?</h3>
 <hr>
 <p>We provide lots of free and fun games without <b>any ads</b>! <i><b>I put a lot of time and effort into this!</b></i></p>
 <hr>
